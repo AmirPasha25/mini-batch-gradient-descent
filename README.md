@@ -16,7 +16,7 @@ Think of the loss function like a **bowl** again.
 - Mini-Batch GD looks at **a handful of points** on the bowl at each step.  
 - This makes the path **smoother than SGD**, but **faster than Batch GD**.  
 - It reduces the zig-zag noise of SGD while still allowing the model to move quickly.  
-- Mini-Batches also make it easier to **parallelize computations** on GPUs, which is why it’s widely used in deep learning.
+- Mini-Batches also make it easier to **parallelize computations** on GPUs, which is why it is widely used in deep learning.
 
 ---
 
