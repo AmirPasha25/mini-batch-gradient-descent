@@ -6,7 +6,7 @@ Mini-Batch Gradient Descent is a **hybrid between Batch and Stochastic Gradient 
 
 Instead of using the entire dataset like Batch GD, or just one sample like SGD, it updates the model using **a small batch of samples at a time**.  
 
-This combines the **stability of Batch GD** with the **speed of SGD**, making it very popular in real-world machine learning.
+This combines the **stability of Batch Gradient Descent** with the **speed of SGD**, making it very popular in real-world machine learning.
 
 ---
 
