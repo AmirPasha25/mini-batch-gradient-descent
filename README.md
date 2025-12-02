@@ -11,7 +11,7 @@ This combines the **stability of Batch Gradient Descent** with the **speed of SG
 ---
 
 ## 🧠 In Simple Words  
-Think of the loss function like a **bowl** again.  
+Think of the loss function like a **bowl** again.   
 
 - Mini-Batch GD looks at **a handful of points** on the bowl at each step.  
 - This makes the path **smoother than SGD**, but **faster than Batch GD**.  
